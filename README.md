@@ -1,4 +1,4 @@
-# simple censorship circumvention
+# Simple censorship circumvention
 
 The project aims to provide a robust set of tools to effortless regain free internet access when surfing from dark corners of the internet.
 
