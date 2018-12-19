@@ -1,6 +1,6 @@
 # Simple censorship circumvention
 
-The project aims to provide a robust set of tools to effortless regain free internet access when surfing from dark corners of the internet.
+This project aims to provide a robust set of tools to effortless regain free internet access when surfing from dark corners of the internet.
 
 This implies fully automated setup of diverse proxys, vpns, tunnels and bridges on cheap cloud providers.
 
