@@ -6,9 +6,9 @@ This implies fully automated setup of diverse proxys, vpns, tunnels and bridges 
 
 
 ## Scope
-Deal with the censorship in central-alsia, iran, turkey, china.
-Increase the effort need for eavesdropping.
-Minimizing the legal threats for example associated whith filesharing under a german IP.
+* Deal with the censorship in central-alsia, iran, turkey, china.
+* Increase the effort need for eavesdropping.
+* Minimizing exposure to legal threats for example caused by filesharing under a german IP.
 
 
 
