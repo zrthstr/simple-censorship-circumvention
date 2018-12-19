@@ -15,6 +15,7 @@ Minimizing the legal threats for example associated whith filesharing under a ge
 ## Overvidew of Methods
 
 Have and spectrum of uninterupted channel to either TOR, I2P, or to any cloud provider.
+```
 
 
                                     .-~~~-.
@@ -60,8 +61,7 @@ Have and spectrum of uninterupted channel to either TOR, I2P, or to any cloud pr
                            \_______________________/
 
 
-
-
+```
 
 
 ## Tools
